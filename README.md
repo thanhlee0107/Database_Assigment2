@@ -4,7 +4,6 @@ PORT= your port
 HOST=localhost
 HOST_URL=yoururl
 
-# sql server config
 SQL_SERVER=localhost #name of server
 SQL_DATABASE="" #name of database
 SQL_USER="sa" # name of user
